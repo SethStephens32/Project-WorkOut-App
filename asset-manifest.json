@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Project-WorkOut-App/static/css/main.20acbc28.css",
+    "main.js": "/Project-WorkOut-App/static/js/main.8da6e0ac.js",
+    "static/media/banner.png": "/Project-WorkOut-App/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/Project-WorkOut-App/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Project-WorkOut-App/index.html",
+    "main.20acbc28.css.map": "/Project-WorkOut-App/static/css/main.20acbc28.css.map",
+    "main.8da6e0ac.js.map": "/Project-WorkOut-App/static/js/main.8da6e0ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.8da6e0ac.js"
+  ]
+}
